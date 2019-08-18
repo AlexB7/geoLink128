@@ -3,8 +3,6 @@ Written by Glenn Holmer (a.k.a "Shadow", a.k.a "Cenbe").
 
 GEOS 128 support added by Alex Burger
 
-https://csdb.dk/release/?id=91469
-
 August 18th, 2019
 
 
